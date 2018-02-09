@@ -1,0 +1,11 @@
+This the descriptionof the AMBA APB project
+
+This project consists of mainly three modules 
+	1.APB BRIDGE - the master of the APB 
+	2. slave - The slave in the APB system
+	3. System - The main module with instantiates all the master and slaves and generates the test vectors of two read and write operation.
+
+In the project TWO slaves have been instantiated and the bus has been shared using tri state buffers between them . These two slaves are nothing but two register files.
+
+APB BRIDGE is the master. It is indicated to start a transfer by asserting the transfer signal and providing the relevant information as read/ writeaddress write value, slave select number.
+
