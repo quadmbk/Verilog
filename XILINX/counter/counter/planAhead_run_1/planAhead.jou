@@ -1,0 +1,55 @@
+#-----------------------------------------------------------
+# PlanAhead v14.4
+# Build 222254 by xbuild on Tue Dec 18 05:23:01 MST 2012
+# Start of session at: Sat Mar 25 13:01:58 2017
+# Process ID: 4752
+# Log file: C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/pa.fromHdl.tcl}
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin M12 [get_ports {count[6]}]
+endgroup
+startgroup
+set_property package_pin L13 [get_ports {count[5]}]
+endgroup
+startgroup
+set_property package_pin P12 [get_ports {count[4]}]
+endgroup
+startgroup
+set_property package_pin N1 [get_ports {count[3]}]
+endgroup
+startgroup
+set_property package_pin N11 [get_ports {count[3]}]
+endgroup
+set_property package_pin "" [get_ports [list  {count[2]}]]
+startgroup
+set_property package_pin N11 [get_ports {count[3]}]
+endgroup
+startgroup
+set_property package_pin N14 [get_ports {count[2]}]
+endgroup
+startgroup
+set_property package_pin H12 [get_ports {count[1]}]
+endgroup
+startgroup
+set_property package_pin L14 [get_ports {count[0]}]
+endgroup
+startgroup
+set_property package_pin F12 [get_ports {sel[3]}]
+endgroup
+startgroup
+set_property package_pin J12 [get_ports {sel[2]}]
+endgroup
+startgroup
+set_property package_pin M13 [get_ports {sel[1]}]
+endgroup
+startgroup
+set_property package_pin K14 [get_ports {sel[0]}]
+endgroup
+startgroup
+set_property package_pin B8 [get_ports clk]
+endgroup
+save_constraints

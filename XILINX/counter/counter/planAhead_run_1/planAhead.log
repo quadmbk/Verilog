@@ -1,0 +1,103 @@
+#-----------------------------------------------------------
+# PlanAhead v14.4
+# Build 222254 by xbuild on Tue Dec 18 05:23:01 MST 2012
+# Start of session at: Sat Mar 25 13:01:58 2017
+# Process ID: 4752
+# Log file: C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+INFO: [Common 17-290] Got license for PlanAhead
+INFO: [Common 17-86] Your PlanAhead license expires in -845 day(s)
+INFO: [Device 21-36] Loading parts and site information from C:/Xilinx/14.4/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [C:/Xilinx/14.4/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [C:/Xilinx/14.4/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+source {C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/pa.fromHdl.tcl}
+# create_project -name counter -dir "C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/planAhead_run_1" -part xc3s100ecp132-5
+# set_param project.pinAheadLayout yes
+# set srcset [get_property srcset [current_run -impl]]
+# set_property target_constrs_file "counter.ucf" [current_fileset -constrset]
+Adding file 'C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/counter.ucf' to fileset 'constrs_1'
+# set hdlfile [add_files [list {counter.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set_property top counter $srcset
+# add_files [list {counter.ucf}] -fileset [get_property constrset [current_run]]
+# open_rtl_design -part xc3s100ecp132-5
+Using Verific elaboration
+Parsing VHDL file "C:/Xilinx/14.4/ISE_DS/PlanAhead/data/parts/xilinx/rtl/lib/synplify/synattr.vhd" into library synplify
+Analyzing Verilog file "C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/counter.v" into library work
+INFO: [Designutils 20-910] Reading macro library C:/Xilinx/14.4/ISE_DS/PlanAhead/data\./parts/xilinx/spartan3e/spartan3e/hd_int_macros.edn
+Parsing EDIF File [C:/Xilinx/14.4/ISE_DS/PlanAhead/data\./parts/xilinx/spartan3e/spartan3e/hd_int_macros.edn]
+Finished Parsing EDIF File [C:/Xilinx/14.4/ISE_DS/PlanAhead/data\./parts/xilinx/spartan3e/spartan3e/hd_int_macros.edn]
+Loading clock regions from C:/Xilinx/14.4/ISE_DS/PlanAhead/data\parts/xilinx/spartan3e/spartan3e/xc3s100e/ClockRegion.xml
+Loading clock buffers from C:/Xilinx/14.4/ISE_DS/PlanAhead/data\parts/xilinx/spartan3e/spartan3e/xc3s100e/ClockBuffers.xml
+Loading package from C:/Xilinx/14.4/ISE_DS/PlanAhead/data\parts/xilinx/spartan3e/spartan3e/xc3s100e/cp132/Package.xml
+Loading io standards from C:/Xilinx/14.4/ISE_DS/PlanAhead/data\./parts/xilinx/spartan3e/IOStandards.xml
+INFO: [Device 21-19] Loading pkg sso from C:/Xilinx/14.4/ISE_DS/PlanAhead/data\parts/xilinx/spartan3e/spartan3e/xc3s100e/cp132/SSORules.xml
+Loading list of drcs for the architecture : C:/Xilinx/14.4/ISE_DS/PlanAhead/data\./parts/xilinx/spartan3e/spartan3e/drc.xml
+INFO: [Timing 38-77] Reading timing library C:/Xilinx/14.4/ISE_DS/PlanAhead/data\parts/xilinx/spartan3e/spartan3e/spartan3e-5.lib.
+INFO: [Timing 38-34] Done reading timing library C:/Xilinx/14.4/ISE_DS/PlanAhead/data\parts/xilinx/spartan3e/spartan3e/spartan3e-5.lib.
+Parsing UCF File [C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/counter.ucf]
+Finished Parsing UCF File [C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter/counter.ucf]
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Phase 0 | Netlist Checksum: 7175b87c
+open_rtl_design: Time (s): elapsed = 00:00:08 . Memory (MB): peak = 443.469 ; gain = 63.863
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin M12 [get_ports {count[6]}]
+endgroup
+startgroup
+set_property package_pin L13 [get_ports {count[5]}]
+endgroup
+startgroup
+set_property package_pin P12 [get_ports {count[4]}]
+endgroup
+startgroup
+set_property package_pin N1 [get_ports {count[3]}]
+endgroup
+startgroup
+set_property package_pin N11 [get_ports {count[3]}]
+endgroup
+set_property package_pin "" [get_ports [list  {count[2]}]]
+startgroup
+set_property package_pin N11 [get_ports {count[3]}]
+endgroup
+startgroup
+set_property package_pin N14 [get_ports {count[2]}]
+endgroup
+startgroup
+set_property package_pin H12 [get_ports {count[1]}]
+endgroup
+startgroup
+set_property package_pin L14 [get_ports {count[0]}]
+endgroup
+startgroup
+set_property package_pin F12 [get_ports {sel[3]}]
+endgroup
+startgroup
+set_property package_pin J12 [get_ports {sel[2]}]
+endgroup
+startgroup
+set_property package_pin M13 [get_ports {sel[1]}]
+endgroup
+startgroup
+set_property package_pin K14 [get_ports {sel[0]}]
+endgroup
+startgroup
+set_property package_pin B8 [get_ports clk]
+endgroup
+save_constraints
+exit
+ERROR: [PlanAhead 12-106] *** Exception: ui.h.b: Found deleted key in HTclEventBroker. Verify if the classes listed here call cleanup()
+HTclEvent: DEBUG_PORT_CONFIG_CHANGE   Classes: ui.views.aR 
+HTclEvent: DEBUG_CORE_CONFIG_CHANGE   Classes: ui.views.aR 
+HTclEvent: SIGNAL_MODIFY   Classes: ui.views.aR 
+HTclEvent: SIGNAL_BUS_MODIFY   Classes: ui.views.aR 
+ (See C:/Users/Shubhanshu Sharma/Desktop/verilog/counter/counter\planAhead_pid4752.debug)
+ERROR: [Common 17-39] 'stop_gui' failed due to earlier errors.
+INFO: [Common 17-206] Exiting PlanAhead at Sat Mar 25 13:04:01 2017...
+INFO: [Common 17-83] Releasing license: PlanAhead
