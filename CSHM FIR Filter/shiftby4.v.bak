@@ -1,0 +1,8 @@
+module shiftby4(input [11:0] data,
+		output reg [15:0]out);
+
+	always @(data) begin
+		out<= data<<4;
+	end
+
+endmodule

@@ -1,0 +1,409 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Shubhanshu Sharma/Desktop/verilog/systemVERILOG/spear_ex
+vand_gate
+Z0 !s110 1508925953
+!i10b 1
+!s100 ;e3O]5VEia_b@PP1GLXXP1
+IJBz1cRTdK@P3mBRj1BlkM3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Shubhanshu Sharma/Desktop/verilog/minor
+w1508925942
+8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/and_gate.v
+FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/and_gate.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1508925953.000000
+!s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/and_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/and_gate.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vbooth
+Z6 !s110 1508916317
+!i10b 1
+!s100 HgGk18>kE^TC`bE44AmVk2
+I4nlFfEXYmaeVR`k7K5IR>0
+R1
+R2
+w1508910877
+8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth.v
+FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1508916317.000000
+!s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth.v|
+!s101 -O0
+!i113 1
+R5
+vbooth_tb
+R6
+!i10b 1
+!s100 mQ^mFQ54Z?djjbR<41TB72
+Ia07cY^g1XRI=[`9U=WP590
+R1
+R2
+Z8 w1508910486
+Z9 8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth_top.v
+Z10 FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth_top.v
+L0 67
+R3
+r1
+!s85 0
+31
+R7
+Z11 !s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth_top.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth_top.v|
+!s101 -O0
+!i113 1
+R5
+vbooth_top
+R6
+!i10b 1
+!s100 GDLd9GQc]<BbVeQBgCIi`3
+I14M99_VX3G9BEiYjE9Jil2
+R1
+R2
+R8
+R9
+R10
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+R11
+R12
+!s101 -O0
+!i113 1
+R5
+vdff
+Z13 !s110 1508928103
+!i10b 1
+!s100 _MKb^Fdao2NQNZ]C_PClQ3
+IWG_Ig>^RDO4z>EWClZQA?0
+R1
+R2
+Z14 w1508928101
+Z15 8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/top.v
+Z16 FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/top.v
+L0 72
+R3
+r1
+!s85 0
+31
+Z17 !s108 1508928103.000000
+Z18 !s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/top.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/top.v|
+!s101 -O0
+!i113 1
+R5
+vfull_adder
+Z20 !s110 1508924546
+!i10b 1
+!s100 K=9b;iX@;14l^4leE3HOV0
+IT?[n4d<8SF[J[e>bEB9QU2
+R1
+R2
+Z21 w1508924544
+Z22 8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/rca.v
+Z23 FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/rca.v
+L0 26
+R3
+r1
+!s85 0
+31
+Z24 !s108 1508924546.000000
+Z25 !s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/rca.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/rca.v|
+!s101 -O0
+!i113 1
+R5
+vishifter
+R0
+!i10b 1
+!s100 U8Sa]L1h=9`kGm1G<gd`z0
+I@04DGHZ`ODJB]8cP2_gVH0
+R1
+R2
+w1508925872
+8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/ishifter.v
+FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/ishifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/ishifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/ishifter.v|
+!s101 -O0
+!i113 1
+R5
+vmux8x1
+R0
+!i10b 1
+!s100 f9]zBC>Oa0D1aTCA7?dnb0
+IlS[XUDkWSKQREdUzb`<Gj3
+R1
+R2
+w1508925894
+8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplexor.v
+FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplexor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplexor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplexor.v|
+!s101 -O0
+!i113 1
+R5
+vprecomputer
+R0
+!i10b 1
+!s100 C@Oeg[mLi7=W2Ej]jIAiH2
+IA2G[GA5`DLg53]MLeXAQk1
+R1
+R2
+Z27 w1508925931
+Z28 8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/precomputer.v
+Z29 FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/precomputer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z30 !s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/precomputer.v|
+Z31 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/precomputer.v|
+!s101 -O0
+!i113 1
+R5
+vrca
+R20
+!i10b 1
+!s100 RIkOo2k_kjNlO69@5F7^n3
+Ia[O@QKnmlfV2V7i>0Gi5S1
+R1
+R2
+R21
+R22
+R23
+L0 1
+R3
+r1
+!s85 0
+31
+R24
+R25
+R26
+!s101 -O0
+!i113 1
+R5
+vrca_tb
+!s110 1508924547
+!i10b 1
+!s100 ;oUG8m3mE7b^=4YlAUg1g2
+I6o]m:8iU6;eaKVdW?R0Bc1
+R1
+R2
+R21
+R22
+R23
+L0 35
+R3
+r1
+!s85 0
+31
+R24
+R25
+R26
+!s101 -O0
+!i113 1
+R5
+vs_a
+R0
+!i10b 1
+!s100 QW47NB8JaZl262RT<kXM42
+IQJncVLTIDAQ=]JoS40U]m0
+R1
+R2
+w1508925854
+8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/s&a.v
+FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/s&a.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/s&a.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/s&a.v|
+!s101 -O0
+!i113 1
+R5
+vselect_and_add
+R0
+!i10b 1
+!s100 ZO05JTeOjB9g04i75C[mK1
+IIjn6MEgEnIzSi6F9b1Jjo0
+R1
+R2
+w1508925838
+8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/select_and_add.v
+FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/select_and_add.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/select_and_add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/select_and_add.v|
+!s101 -O0
+!i113 1
+R5
+vshiftby4
+!s110 1508926102
+!i10b 1
+!s100 ELK_]^0BTMGWk[C0E:_JU0
+Iih2Rad?h@OS84^BkC[5Af1
+R1
+R2
+w1508926100
+8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shiftby4.v
+FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shiftby4.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1508926102.000000
+!s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shiftby4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shiftby4.v|
+!s101 -O0
+!i113 1
+R5
+vshifter
+Z32 !s110 1508916316
+!i10b 1
+!s100 bJK`nHF260OaMgzW6_KdS2
+Ig@gLc0bTJ^EEg7[QLIdCD3
+R1
+R2
+Z33 w1508146841
+Z34 8C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shifter.v
+Z35 FC:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z36 !s108 1508916316.000000
+Z37 !s107 C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shifter.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shifter.v|
+!s101 -O0
+!i113 1
+R5
+vtb
+R32
+!i10b 1
+!s100 J6DB737hZLXWfZ1=@>C1K2
+I=@j9^m;?aD`WjnL`9<[P@2
+R1
+R2
+R33
+R34
+R35
+L0 60
+R3
+r1
+!s85 0
+31
+R36
+R37
+R38
+!s101 -O0
+!i113 1
+R5
+vtb_top
+R13
+!i10b 1
+!s100 =Y1MoU^BhXDHEn[zl=?^<3
+I<_k64nb]amDPfU1dV;ddl1
+R1
+R2
+R14
+R15
+R16
+L0 84
+R3
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+!i113 1
+R5
+vtest
+R0
+!i10b 1
+!s100 <iE9gjQiEScz`B<=Kne@72
+IcHB<NC5Q4kR;j6hMYVeg>3
+R1
+R2
+R27
+R28
+R29
+L0 34
+R3
+r1
+!s85 0
+31
+R4
+R30
+R31
+!s101 -O0
+!i113 1
+R5
+vtop
+R13
+!i10b 1
+!s100 k9Bk^:8@Q=ii7J3>[<nil0
+IKnH=3E>CO:31LBF:R:6[_0
+R1
+R2
+R14
+R15
+R16
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+!i113 1
+R5

@@ -1,0 +1,92 @@
+{C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/s&a.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/s&a.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module s_a
+
+Top level modules:
+	s_a
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/top.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/top.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+-- Compiling module dff
+-- Compiling module tb_top
+
+Top level modules:
+	tb_top
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/and_gate.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/and_gate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplexor.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplexor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux8x1
+
+Top level modules:
+	mux8x1
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shifter.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shifter
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shiftby4.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/shiftby4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shiftby4
+
+Top level modules:
+	shiftby4
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/rca.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/rca.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rca
+-- Compiling module full_adder
+-- Compiling module rca_tb
+
+Top level modules:
+	rca_tb
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/select_and_add.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/select_and_add.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module select_and_add
+
+Top level modules:
+	select_and_add
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module booth
+
+Top level modules:
+	booth
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth_top.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/multiplier/booth_top.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module booth_top
+-- Compiling module booth_tb
+
+Top level modules:
+	booth_tb
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/ishifter.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/ishifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ishifter
+
+Top level modules:
+	ishifter
+
+} {} {}} {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/precomputer.v} {1 {vlog -work work -stats=none {C:/Users/Shubhanshu Sharma/Desktop/verilog/minor/precomputer.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module precomputer
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}
