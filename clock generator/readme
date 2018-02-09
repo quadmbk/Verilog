@@ -1,0 +1,1 @@
+A generic clock generator which can generator clock signals according to the Period and duty cycle parameters provided to it .
