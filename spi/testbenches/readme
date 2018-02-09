@@ -1,0 +1,3 @@
+master_tb.v - tests master alone 
+slave_tb.v  - tests slave alone
+spi_tb.v    - tests the communiction between spi_master and spi_slave
